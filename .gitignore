@@ -1,0 +1,8 @@
+# generated files
+build/
+
+# special directories
+/po
+!/po/POTFILES.in
+!/po/LINGUAS
+!/po/Makevars

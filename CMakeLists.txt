@@ -57,7 +57,7 @@ target_compile_options(${PROJECT_NAME} PUBLIC
 	-Wall
 	-Wextra
 	-Wunused
-	-O3
+	-O1
 	-fPIC
 )
 

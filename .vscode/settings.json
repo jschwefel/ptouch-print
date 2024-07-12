@@ -1,0 +1,11 @@
+{
+    "cmake.debugConfig": {
+        "args": [
+            "--debug",
+            "--font",
+            "BRHELBS0",
+            "--text",
+            "M3 B",
+        ]
+    }
+}
